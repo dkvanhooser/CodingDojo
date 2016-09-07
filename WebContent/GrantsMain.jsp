@@ -9,7 +9,6 @@
 <script language = "Javascript">
 function validateForm(){
 	validateSSN();
-	validateEmail();
 	validatePhone();
 }	
 function validateSSN(){
